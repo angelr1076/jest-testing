@@ -1,0 +1,22 @@
+{
+  "name": "odin-jesttesting",
+  "version": "1.0.0",
+  "description": "Jest testing for OdinJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "jest",
+    "odin",
+    "odinjs",
+    "odin-jesttesting"
+  ],
+  "author": "Angel Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.5.0"
+  }
+}
